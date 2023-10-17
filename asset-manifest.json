@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/bid-type-frontend/static/css/main.56ea4113.css",
+    "main.js": "/bid-type-frontend/static/js/main.8f09af5b.js",
+    "static/js/787.d69fdba0.chunk.js": "/bid-type-frontend/static/js/787.d69fdba0.chunk.js",
+    "static/media/face-2.jpg": "/bid-type-frontend/static/media/face-2.bb4c9d890d8896093bff.jpg",
+    "static/media/face-1.jpg": "/bid-type-frontend/static/media/face-1.2552132aa111ca7131ce.jpg",
+    "static/media/login-image.png": "/bid-type-frontend/static/media/login-image.d60d5c9783c65562a4ca.png",
+    "static/media/face-3.jpg": "/bid-type-frontend/static/media/face-3.cec836c9545e075a009a.jpg",
+    "static/media/backimage1.jpg": "/bid-type-frontend/static/media/backimage1.7da2286ebf90fe643cbc.jpg",
+    "static/media/homepage-slider-3.jpg": "/bid-type-frontend/static/media/homepage-slider-3.edf70cffd7360a7058df.jpg",
+    "static/media/homepage-slider-2.jpg": "/bid-type-frontend/static/media/homepage-slider-2.b8d7bec07d4b1d860c01.jpg",
+    "static/media/luxury sports mc 1.jpg": "/bid-type-frontend/static/media/luxury sports mc 1.80cfb2eb841bb3075c37.jpg",
+    "static/media/homepage-slider-1.jpg": "/bid-type-frontend/static/media/homepage-slider-1.bd1b168e21e25d55ac9e.jpg",
+    "static/media/homepage-slider-5.jpg": "/bid-type-frontend/static/media/homepage-slider-5.eb30722118dbefac5713.jpg",
+    "static/media/homepage-slider-4.jpg": "/bid-type-frontend/static/media/homepage-slider-4.6514fa0ac1b120279241.jpg",
+    "static/media/motorcycle-bid.png": "/bid-type-frontend/static/media/motorcycle-bid.3ff5e1416fcfb29086c8.png",
+    "static/media/luxury sports car 2.jpg": "/bid-type-frontend/static/media/luxury sports car 2.b4945208e128a837c5dd.jpg",
+    "static/media/luxury sports car 1.jpg": "/bid-type-frontend/static/media/luxury sports car 1.2cb74ffeac9143565443.jpg",
+    "static/media/bidbox6image.jpg": "/bid-type-frontend/static/media/bidbox6image.6600a698ed332e284fb5.jpg",
+    "static/media/box-4-animation-image-4.jpg": "/bid-type-frontend/static/media/box-4-animation-image-4.5ad81fec505bd06cb44d.jpg",
+    "static/media/box-4-animation-image-3.jpg": "/bid-type-frontend/static/media/box-4-animation-image-3.0f1dcd9612f7c1926e66.jpg",
+    "static/media/box-4-animation-image-2.jpg": "/bid-type-frontend/static/media/box-4-animation-image-2.73bb5b944149bb5e02a7.jpg",
+    "static/media/bidbox7image.jpg": "/bid-type-frontend/static/media/bidbox7image.78873c76bfad4fdfab35.jpg",
+    "static/media/bidbox5image.jpg": "/bid-type-frontend/static/media/bidbox5image.59f5ff6ddfa93050afd0.jpg",
+    "static/media/bidbox1image.jpg": "/bid-type-frontend/static/media/bidbox1image.a7fb93cdf227aceadccf.jpg",
+    "static/media/bidbox3image.jpg": "/bid-type-frontend/static/media/bidbox3image.52406f89b1c318bf888b.jpg",
+    "static/media/box-4-animation-image-1.jpg": "/bid-type-frontend/static/media/box-4-animation-image-1.6cb1f7c4ecad08931fc1.jpg",
+    "static/media/luxury sports car 3.jpg": "/bid-type-frontend/static/media/luxury sports car 3.d377508370ba0cb7a395.jpg",
+    "static/media/bidbox8image.jpg": "/bid-type-frontend/static/media/bidbox8image.7cd9e5f3a4a52060150f.jpg",
+    "static/media/bidbox4image.jpg": "/bid-type-frontend/static/media/bidbox4image.7c47ad1071f9c8cfff36.jpg",
+    "static/media/bidbox2image.jpg": "/bid-type-frontend/static/media/bidbox2image.69f074ff683a5f614208.jpg",
+    "static/media/btlogo.png": "/bid-type-frontend/static/media/btlogo.5810933b4ee1f4519769.png",
+    "index.html": "/bid-type-frontend/index.html",
+    "main.56ea4113.css.map": "/bid-type-frontend/static/css/main.56ea4113.css.map",
+    "main.8f09af5b.js.map": "/bid-type-frontend/static/js/main.8f09af5b.js.map",
+    "787.d69fdba0.chunk.js.map": "/bid-type-frontend/static/js/787.d69fdba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ea4113.css",
+    "static/js/main.8f09af5b.js"
+  ]
+}
